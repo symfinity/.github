@@ -1,6 +1,4 @@
-# **Pragmatic open source tooling for the Symfony ecosystem**
-
-## Independent initiative - pragmatic tooling, monorepo-first, community-driven.
+# **Pragmatic Open Source for the Symfony ecosystem**
 
 
 | Resource         | Link                                                                                         |
