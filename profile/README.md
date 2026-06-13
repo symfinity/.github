@@ -1,14 +1,12 @@
 # **Pragmatic Open Source for the Symfony ecosystem**
 
-
 | Resource         | Link                                                                                         |
 | ---------------- | -------------------------------------------------------------------------------------------- |
-| Net              | [symfinity.net](https://symfinity.net)                                                       |
-| Org root (here)  | [github.com/symfinity](https://github.com/symfinity)                                         |
-| Flex recipes     | [github.com/symfinity/recipes](https://github.com/symfinity/recipes) *(coming soon)*         |
-| Packagist        | [packagist.org/packages/symfinity](https://packagist.org/packages/symfinity) *(coming soon)* |
-| Product monorepo | [github.com/symfinity/symfinity](https://github.com/symfinity/symfinity) *(coming soon)*     |
-
+| Net              | [symfinity.net](https://symfinity.net) |
+| Org root (here)  | [github.com/symfinity](https://github.com/symfinity) |
+| Repositories     | [github.com/orgs/symfinity/repositories](https://github.com/orgs/symfinity/repositories) |
+| Flex recipes     | [github.com/symfinity/recipes](https://github.com/symfinity/recipes) |
+| Packagist        | [packagist.org/packages/symfinity](https://packagist.org/packages/symfinity) |
 
 > [!NOTE]
 > **Status:** Early development (v0). Public repos and packages are rolling out; expect breaking changes.
