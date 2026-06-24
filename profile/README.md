@@ -1,6 +1,6 @@
 # Symfinity
-## Reusable Symfony-native building blocks
-### Useful on their own. Even better together.
+### Reusable Symfony-native building blocks
+#### Useful on their own. Even better together.
 
 | Resource         | Link |
 | ---------------- | ---- |
@@ -15,7 +15,7 @@
 
 ---
 
-### Our Mission
+#### Our Mission
 
 - **Solve recurring Symfony project needs**
 
