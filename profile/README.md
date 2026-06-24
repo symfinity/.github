@@ -9,6 +9,8 @@
 | Repositories     | https://github.com/orgs/symfinity/repositories |
 | Flex recipes     | https://github.com/symfinity/recipes |
 | Packagist        | https://packagist.org/packages/symfinity |
+| Medium           | https://medium.com/@serotoninja |
+| dev.to           | https://dev.to/symfinity |
 
 > [!NOTE]
 > **Status:** Early development. Public packages are released incrementally. Expect API changes and occasional breaking changes until stable 1.0 releases become available.
