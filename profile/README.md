@@ -1,5 +1,5 @@
 # Symfinity
-### Reusable Symfony-native building blocks
+### Reusable Symfony-native building packages
 #### Useful on their own. Even better together.
 
 | Resource         | Link |
