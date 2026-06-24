@@ -1,33 +1,46 @@
-# **Pragmatic Open Source for the Symfony ecosystem**
+# Symfinity
+## Reusable Symfony-native building blocks
+### Useful on their own. Even better together.
 
-| Resource         | Link                                                                                         |
-| ---------------- | -------------------------------------------------------------------------------------------- |
-| Net              | [symfinity.net](https://symfinity.net) |
-| Org root (here)  | [github.com/symfinity](https://github.com/symfinity) |
-| Repositories     | [github.com/orgs/symfinity/repositories](https://github.com/orgs/symfinity/repositories) |
-| Flex recipes     | [github.com/symfinity/recipes](https://github.com/symfinity/recipes) |
-| Packagist        | [packagist.org/packages/symfinity](https://packagist.org/packages/symfinity) |
+| Resource         | Link |
+| ---------------- | ---- |
+| Net              | https://symfinity.net |
+| Org root (here)  | https://github.com/symfinity |
+| Repositories     | https://github.com/orgs/symfinity/repositories |
+| Flex recipes     | https://github.com/symfinity/recipes |
+| Packagist        | https://packagist.org/packages/symfinity |
 
 > [!NOTE]
-> **Status:** Early development (v0). Public repos and packages are rolling out; expect breaking changes.
+> **Status:** Early development. Public packages are released incrementally. Expect API changes and occasional breaking changes until stable 1.0 releases become available.
 
 ---
 
-Symfinity exists to strengthen the Symfony ecosystem for the long term - not through marketing or over-engineering, but through pragmatic tools that make developers more productive every day.
+### Our Mission
 
-Backed by decades of real-world project experience, we are building a toolkit that targets daily friction: missing standards, unnecessary complexity, and weak developer experience. Composer packages ship under `symfinity/*`; monorepo workflow is centered on private `symfinity/symfinity`.
+- **Solve recurring Symfony project needs**
 
-## Our Mission
+  Turn common solutions into reusable packages instead of rebuilding them in every project.
 
-- **Maximize the Developer Experience**  
-Tools that feel natural, work elegantly, and deliver real value in seconds.
-- **Strengthen Symfony - sustainably**  
-Consistent concepts, reusable building blocks, and ideas that save time in every project.
-- **Community before complexity**  
-Open source as a shared ecosystem, not a stage for individuals.
-- **Practice over theory**  
-Ship fixes for real projects; early or experimental work is labeled clearly.
+- **Useful on their own. Better together.**
 
-## Why Symfinity?
+  Every package should provide immediate value while sharing conventions with the rest of the ecosystem.
 
-Focused tools beat sprawling platforms for day-to-day Symfony work. We ship incrementally in the open - more repos and packages as the platform matures.
+- **Convention over unnecessary configuration**
+
+  Minimize setup, reduce cognitive load and embrace Symfony-native integration wherever possible.
+
+- **Strengthen Symfony sustainably**
+
+  Build on top of Symfony, not around it. Respect existing conventions and improve developer experience through practical tooling.
+
+- **Practice over theory**
+
+  Ship solutions for real projects. Experimental work is clearly labeled and proven ideas become stable packages.
+
+Symfinity provides focused Composer packages for recurring application needs.
+
+Each package solves a specific problem and can be used independently. Shared conventions, integration patterns and developer experience make them work even better together.
+
+Symfony gives developers exceptional building blocks. Symfinity exists to package recurring solutions into reusable, Symfony-native tools that reduce friction, minimize setup and help teams stay focused on their applications instead of rebuilding infrastructure.
+
+We believe developers should spend less time rebuilding infrastructure and more time building applications. Symfinity packages recurring solutions into focused, reusable tools that integrate naturally with Symfony.
