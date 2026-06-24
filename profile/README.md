@@ -18,23 +18,14 @@
 #### Our Mission
 
 - **Solve recurring Symfony project needs**
-
   Turn common solutions into reusable packages instead of rebuilding them in every project.
-
 - **Useful on their own. Better together.**
-
   Every package should provide immediate value while sharing conventions with the rest of the ecosystem.
-
 - **Convention over unnecessary configuration**
-
   Minimize setup, reduce cognitive load and embrace Symfony-native integration wherever possible.
-
 - **Strengthen Symfony sustainably**
-
   Build on top of Symfony, not around it. Respect existing conventions and improve developer experience through practical tooling.
-
 - **Practice over theory**
-
   Ship solutions for real projects. Experimental work is clearly labeled and proven ideas become stable packages.
 
 Symfinity provides focused Composer packages for recurring application needs.
