@@ -17,7 +17,7 @@
 
 ---
 
-#### Our Mission
+## Our Mission
 
 - **Solve recurring Symfony project needs**
   Turn common solutions into reusable packages instead of rebuilding them in every project.
@@ -37,3 +37,11 @@ Each package solves a specific problem and can be used independently. Shared con
 Symfony gives developers exceptional building blocks. Symfinity exists to package recurring solutions into reusable, Symfony-native tools that reduce friction, minimize setup and help teams stay focused on their applications instead of rebuilding infrastructure.
 
 We believe developers should spend less time rebuilding infrastructure and more time building applications. Symfinity packages recurring solutions into focused, reusable tools that integrate naturally with Symfony.
+
+### Further readings:
+- Why building Symfony-native packages instead of doing infrastructure again and again - [dev.to](https://dev.to/symfinity/why-i-started-building-symfony-native-packages-instead-of-doing-infrastructure-again-and-again-4nc1)/[Medium](https://medium.com/@serotoninja/why-i-started-building-symfony-native-packages-instead-of-doing-infrastructure-again-and-again-6f5c7e9f425d)
+- Why Symfony projects feel more fragmented than ever - [dev.to](https://dev.to/symfinity/why-symfony-projects-feel-more-fragmented-than-ever-4g6c)/[Medium](https://medium.com/@serotoninja/why-symfony-projects-feel-more-fragmented-than-ever-eec6f7573e33)
+
+### Package-level deep dives:
+- Font Manager: Multi-format Font export for Symfony - [dev.to](https://dev.to/symfinity/font-manager-multi-format-font-export-for-symfony-41le)/[Medium](https://medium.com/@serotoninja/beyond-css-multi-format-font-export-for-symfony-cabc2692734a)
+- Omnia Ipsum: Unified placeholder content for Symfony - [dev.to](https://dev.to/symfinity/omnia-ipsum-unified-placeholder-content-for-symfony-4oid)/[Medium](https://medium.com/@serotoninja/omnia-ipsum-unified-placeholder-content-for-symfony-f8dfb1a89a6b)
